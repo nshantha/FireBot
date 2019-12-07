@@ -1,5 +1,5 @@
 # FireBot
-Building a fire fighter without muscles but with intelligence in ROS using TurtleBot and OpenManipulator
+Building a fire fighter without muscles but with intelligence in ROS using TurtleBot and Panda Manipulator
 
 ### References
 1) https://github.com/pirobot/ros-by-example/blob/master/rbx_vol_1/rbx1_nav/nodes/nav_test.py
